@@ -1,0 +1,1 @@
+Build your own face detection model following Nicholas Renotte tutorial on YouTube. The current version uses VGG-16 architecture to detect the face(classification) and draw bounding box(regression). The tutorial is present https://www.youtube.com/watch?v=N_W4EYtsa10.

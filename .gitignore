@@ -1,0 +1,5 @@
+/data
+/aug_data
+/logs
+/.ipynb_checkpoints
+facetracker_may*.h5
